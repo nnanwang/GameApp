@@ -1,0 +1,26 @@
+h1 {
+    color:blueviolet;
+    text-align: center;
+}
+
+h1:hover {
+    color:aqua;
+    font-weight:bold
+}
+
+.firstLine {
+    color:blue;
+    font-style: italic;
+    text-align: center;
+    word-spacing:30px;
+    background-color: beige;
+}
+
+.firstLine:hover{
+    color:red
+}
+
+
+.secondLine{
+    color:#44c38f
+}
